@@ -1,4 +1,4 @@
-![DanBot Hosting](/Assets/Images/Elina.png)
+![ElinaBot](/Assets/Images/Elina.png)
 
 # Links:
 * [Discord Server](https://discord.gg/wtVd2eNdd5)
