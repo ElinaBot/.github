@@ -8,6 +8,8 @@
 # Other Projects:
 
 * [Elinayard Public Presence Bot](https://elinayard.vercel.app/)
-  - Custom Lanyard API That Its Available For Public Use Its Prefix is .help Example Use Can Be Seen Down Below 👇.
-  [![Elinayard Discord Presence](https://elinarm.vercel.app/api/1141460200960827626)](https://elinarm.vercel.app/)
+  - Custom Lanyard API That Its Available For Public Use Its Prefix is **`.help`** Example Use Can Be Seen Down Below 👇.
+  
+![Elinayard Discord Presence](https://elinarm.vercel.app/api/1041785575625195610)
 
+![Elinayard Discord Presence](https://elinarm.vercel.app/api/1141460200960827626)
